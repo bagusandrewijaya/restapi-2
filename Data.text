@@ -1,0 +1,10 @@
+{
+        "name": "restapi_dummy",
+        "id": "a4af98aa-487b-46a0-b74b-ba4a044115cb",
+        "project": "c0trzrdc",
+        "runtime": "nodejs14.x",
+        "endpoint": "https://3j0h7o.deta.dev",
+        "region": "ap-southeast-1",
+        "visor": "disabled",
+        "http_auth": "disabled"
+}
